@@ -1,3 +1,6 @@
+import React from "react";
+
+
 const SearchBar = ({onChange, placeholder}) => {
   return (
     <div className="Search">
