@@ -1,0 +1,36 @@
+.wrapper {
+  font-family: sans-serif;
+  text-align: center;
+}
+.editor{
+  width: 70%;
+}
+
+.editorContainer {
+  padding: 1em;
+  margin: 1em;
+  height: 70%;
+  width: auto;
+}
+
+.editors {
+  border: 1px blue solid;
+  height: 200px;
+  padding: 1em;
+  margin: 1em;
+  font-family: 'Open Sans';
+  font-size: 90%;
+}
+
+.buttonContainer{
+  display: flex;
+  flex-direction: row;
+  padding: 20px 10px;
+}
+
+.editButtons{
+  padding: 5px 10px;
+  margin-right: 10px;
+  border-radius: 3px;
+  border: 2px solid #57BC90;
+}

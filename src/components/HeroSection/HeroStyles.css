@@ -15,7 +15,8 @@ body {
 
 .bg {
   position: absolute;
-  background: radial-gradient(at 50% 100%, #873740 0%, #272730 40%, #171720 80%, #070710 100%);
+/*  background: radial-gradient(at 50% 100%, #873740 0%, #272730 40%, #171720 80%, #070710 100%);*/
+background: radial-gradient(at 50% 100%, #22E4AC 0%, #14C9CB 40%,#171720 80%, #070710 100%);
 }
 
 .loading {
@@ -41,23 +42,35 @@ body {
   background: white;
 }
 
-h1 {
+.title-head {
   position: absolute;
   top: 120px;
   left: 50%;
   font-family: 'Josefin Sans', sans-serif;
   font-weight: 800;
-  font-size: 14em;
+  font-size: 14vw;
   transform: translate3d(-50%, 0, 0);
   margin: 0;
-  color: peru;
+  color: #2AF598;/*peru*/
   line-height: 0.8em;
-  letter-spacing: -15px;
+  letter-spacing: -2px;
   text-align: center;
 }
 
-h1 > span {
+
+.title-head > span {
   white-space: pre;
+}
+
+span.subline{
+  color: black;
+  position: absolute;
+  top: 48vh;
+  right: 10vw;
+  font-size: 2vw;
+  line-height: 0.4em;
+  font-weight: 500;
+  font-family: 'Josefin Sans', sans-serif;
 }
 
 .layer {
@@ -97,14 +110,9 @@ span.header-left {
   width: 200px;
 }
 
-@media only screen and (max-width: 600px) {
-  a.bottom-left {
-    display: none;
-  }
-}
 
-@media only screen and (max-width: 1000px) {
-  h1 {
+/*@media only screen and (max-width: 1000px) {
+  .title-head {
     transform: translate3d(-50%, 0, 0);
     font-size: 8em;
     letter-spacing: -5px;
@@ -112,41 +120,22 @@ span.header-left {
 }
 
 @media only screen and (max-width: 500px) {
-  h1 {
+  .title-head {
     transform: translate3d(-50%, 0%, 0);
     font-size: 4em;
     letter-spacing: -5px;
   }
-}
+}*/
 
-a {
+a.top-left {
+  top: 40px;
+  left: 60px;
+  color: white;
   font-family: 'Josefin Sans', sans-serif;
   font-weight: 400;
   font-size: 18px;
-  color: inherit;
   position: absolute;
   display: inline;
   text-decoration: none;
   z-index: 1;
-  color: white;
-}
-
-a.top-left {
-  top: 60px;
-  left: 60px;
-}
-
-a.top-right {
-  top: 60px;
-  right: 60px;
-}
-
-a.bottom-left {
-  bottom: 60px;
-  left: 60px;
-}
-
-a.bottom-right {
-  bottom: 60px;
-  right: 60px;
 }

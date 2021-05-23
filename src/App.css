@@ -1,0 +1,17 @@
+html,
+body,
+#root,
+.bg,
+.App,
+canvas {
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  height: 100%;
+}
+
+.App{
+  text-align: center;
+  margin: 0;
+padding: 0;
+}

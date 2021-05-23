@@ -1,0 +1,129 @@
+[
+  {
+    "title" : "WatchNext",
+    "imageurl" : "../../images/ImgWatchNext.png",
+    "body" : "A recommendation website with a twist",
+      "tags" : ["Machine Learning","Sentiment Analysis"],
+    "contributors" : ["Swarupa Vijay"],
+    "link" : "https://medium.com/newolf-society/watchnext-a-recommendation-website-with-a-twist-f8475c9ae67c"
+  } , {
+    "title" : "VoiceDial",
+    "imageurl" : "../../images/ImgVoiceDial.png",
+    "body" : "Say goodbye to your physical dial pad",
+    "tags" : ["Speech Recognition","Flutter"],
+    "contributors" : ["Abhijnan Bajpai","Sohan Kp"],
+    "link" : "https://medium.com/newolf-society/voice-dial-say-goodbye-to-your-physical-dial-pad-bf6e223d257d"
+  } , {
+    "title" : "Let's Converse",
+    "imageurl" : "../../images/ImgLetsConverse.png",
+    "body" : "A sign language translator app",
+    "tags" : ["Deep Learning","Flutter"],
+    "contributors" : ["Jayaram Karthik","Srinivas Raghavan"],
+    "link" : "https://medium.com/newolf-society/lets-converse-the-sign-language-translator-app-61e34f978771"
+  } , {
+    "title" : "Fit-Diet",
+    "imageurl" : "../../images/Fit-Diet.jpeg",
+    "body" : "The app to find the right Indian Diet",
+    "tags" : ["App Development","Fitness"],
+    "contributors" : ["Deepa Chalapati","Sanjana Hukkeri"],
+    "link" : "https://medium.com/newolf-society/fit-diet-the-app-to-find-the-right-indian-diet-fc1fae6bbb34"
+  } , {
+    "title" : "EzFindr",
+    "imageurl" : "../../images/EzFindr.jpg",
+    "body" : "Find a charger near you!",
+    "tags" : ["Problem Solving","Flutter"],
+    "contributors" : ["Anindya Mishra","Abhilash M"],
+    "link" : "https://medium.com/@abhilashr490/ezfindr-find-a-charger-near-you-c31696705e9"
+  } , {
+    "title" : "SeyblAR",
+    "imageurl" : "../../images/SeyblAR.jpg",
+    "body" : "The AR Shopping App",
+    "tags" : ["Augmented Reality","E-Commerce"],
+    "contributors" : ["Aryan Jain"],
+    "link" : "https://adijain0212.medium.com/seyblar-the-ar-shopping-app-c562ed8c693c"
+  } , {
+    "title" : "SkillBridge",
+    "imageurl" : "../../images/SkillBridge.png",
+    "body" : "Uniting India on different fronts",
+    "tags" : ["Web App Development","Flutter"],
+    "contributors" : ["Toshani Rungta","Vihar Devalla","Kiriti Kapavari"],
+    "link" : "https://medium.com/newolf-society/voice-dial-say-goodbye-to-your-physical-dial-pad-bf6e223d257d"
+  } , {
+    "title" : "OverCome",
+    "imageurl" : "../../images/OverCome.jpg",
+    "body" : "An app designed to help fight depression",
+    "tags" : ["Mental Health","Flutter"],
+    "contributors" : ["Usha Priya","Nidhi Gupta","Abhirath Koushik"],
+    "link" : "https://medium.com/newolf-society"
+  } , {
+    "title" : "Captionary",
+    "imageurl" : "../../images/Captionary.jpeg",
+    "body" : "An AI-powered caption generator",
+    "tags" : ["Machine Learning","Video Processing"],
+    "contributors" : ["Charvi Bannur","Rohit Singh","Jaswin Kotian","Srushti V Reddy"],
+    "link" : "https://medium.com/newolf-society/captionary-an-ai-powered-caption-generator-8677f7700f02"
+  } , {
+    "title" : "GoalDiggers",
+    "imageurl" : "../../images/GoalDiggers.jpg",
+    "body" : "Making online learning work for you",
+    "tags" : ["Firebase","Flutter"],
+    "contributors" : ["Aradana D","SS Priya","Hardik Modi","Yash Soni"],
+    "link" : "https://medium.com/newolf-society/goal-diggers-embrace-new-learning-8d6141345156"
+  } , {
+   "title" : "PRNTRS",
+   "imageurl" : "../../images/PRNTRS.jpg",
+   "body" : "A simple and efficient approach to remote document printing",
+   "tags" : ["JavaScript","HTML | CSS"],
+   "contributors" : ["Vibhav Deepak","Sakshi BM","Anindita HK"],
+   "link" : "https://medium.com/newolf-society/prntrs-a-simple-and-efficient-approach-to-remote-document-printing-6170fb1cb7cc'"
+ } , {
+  "title" : "Enable",
+  "imageurl" : "../../images/Enable2.jpeg",
+  "body" : "An app that aims at effective reuse of clothes",
+  "tags" : ["Android Studio","Flutter"],
+  "contributors" : ["Vijit Kumar","Mathangi K","Netra S"],
+  "link" : "https://medium.com/newolf-society/enable-your-green-window-30b0ff4e3008"
+} , {
+ "title" : "JobEarth",
+ "imageurl" : "../../images/JobEarth.jpg",
+ "body" : "Connecting you to your perfect job",
+ "tags" : ["Machine Learning","Job Hunting"],
+ "contributors" : ["Spoorthi KS","Sphurthy Satish","Moulya Shetty","Vishnu Bharadwaj"],
+ "link" : "https://medium.com/newolf-society/jobearth-connects-you-to-your-perfect-job-d9a90c0e4fb3"
+} , {
+ "title" : "Quarantino",
+ "imageurl" : "../../images/Quarantino.png",
+ "body" : "Your perfect quarantine partner",
+ "tags" : ["Deep Learning","App Development"],
+ "contributors" : ["Tanya Arora","Abhijna Bhat","Ayush Praveen","Chiranth H"],
+ "link" : "https://medium.com/newolf-society/quarantino-d39ce4acd4c2"
+} , {
+ "title" : "Donatorr",
+ "imageurl" : "../../images/Donatorr.png",
+ "body" : "Blood donor app ft. medical reminders ",
+ "tags" : ["Dart","Swift"],
+ "contributors" : ["Ria Singh","Rakshith V","Gaurav U"],
+ "link" : "https://medium.com/newolf-society/donatorr-blood-donor-app-ft-medical-reminders-6fcae832c4"
+} , {
+ "title" : "MotionSoft",
+ "imageurl" : "../../images/MotionSoft.jpeg",
+ "body" : "This is how your kids are going to play games!",
+ "tags" : ["OpenCV","Motion Capture"],
+ "contributors" : ["Darshil Shah","Akanksha Akkihal","Vishnu JG"],
+ "link" : "https://medium.com/newolf-society/motionsoft-this-is-how-your-kids-are-going-to-play-games-fa74c7bb019e"
+} , {
+ "title" : "MusiciansUnited",
+ "imageurl" : "../../images/MusiciansUnited.jpeg",
+ "body" : "Jamming made easier by helping you connect with musicians",
+ "tags" : ["JavaScript","HTML | CSS"],
+ "contributors" : ["Navya T","Kruthi S","Mohan Sai","Nischal"],
+ "link" : "https://medium.com/newolf-society/musicians-united-jamming-made-easier-555acb42671d"
+} , {
+ "title" : "Career4U",
+ "imageurl" : "../../images/Career4U.jpeg",
+ "body" : "Helping you choose the right path for your future",
+ "tags" : ["Django","Career Advice"],
+ "contributors" : ["Lipi Kansal","Vibha Murthy"],
+ "link" : "https://medium.com/newolf-society/career4u-26e9f135dca"
+}
+]

@@ -1,20 +1,33 @@
 {
-  "name": "3fiber",
+  "name": "Projects",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "@babel/core": "^7.14.2",
+    "@craco/craco": "^6.1.2",
+    "babel-loader": "^8.1.0",
+    "draft-js": "^0.11.7",
     "drei": "^0.0.60",
+    "framework7": "^6.0.17",
+    "framework7-react": "^6.0.17",
+    "fuse.js": "^6.4.6",
     "react": "^16.13.1",
+    "react-beautiful-dnd": "^13.1.0",
+    "react-calendar": "^3.4.0",
+    "react-circular-progressbar": "^2.0.4",
+    "react-customizable-progressbar": "^1.0.3",
     "react-dom": "^16.13.1",
-    "react-scripts": "3.4.1",
+    "react-router-dom": "^5.2.0",
+    "react-scripts": "4.0.1",
     "react-spring": "^8.0.27",
     "react-three-fiber": "^4.2.12",
-    "three": "^0.118.3"
+    "three": "^0.118.3",
+    "uuid": "^8.3.2"
   },
   "scripts": {
-    "start": "react-scripts start",
-    "build": "react-scripts build",
-    "test": "react-scripts test",
+    "start": "craco start",
+    "build": "craco build",
+    "test": "craco test",
     "eject": "react-scripts eject"
   },
   "eslintConfig": {
@@ -31,5 +44,10 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "autoprefixer": "^9.8.6",
+    "postcss": "^7.0.35",
+    "tailwindcss": "npm:@tailwindcss/postcss7-compat@^2.1.2"
   }
 }

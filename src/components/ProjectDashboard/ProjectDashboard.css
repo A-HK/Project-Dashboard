@@ -1,0 +1,32 @@
+.dashboard{
+  margin: 0;
+  padding: 0;
+  font-family: 'Josefin Sans', sans-serif;
+  /*background-image: linear-gradient(to right top, #f8edf3, #fbdbdd, #f6ccbb, #dfc498, #b4c184, #91b77e, #6bac7d, #3fa080, #2f8c73, #1f7865, #106557, #015249);
+  background-image: linear-gradient(to right,#57BC90 0%,#015249 100
+  background-image: linear-gradient(to right bottom, #f9f6f8, #ebe5f6, #c8daf8, #94d3f0, #5fccd4, #41cabf, #3cc7a1, #50c17d, #53c46b, #5bc655, #67c839, #77c904);*/
+  background-image: linear-gradient(to right, #ffffff, #e7effe, #c1e3f9, #92daeb, #67cfcd, #55c0b4, #48b09a, #3fa080, #2f8c73, #1f7865, #106557, #015249);
+    background-size: cover;
+text-align: center;
+height: auto;
+}
+/*#43e97b #38f9d7*/
+svg {
+    position: absolute;
+    left: 0;
+    top: -10%;
+    z-index: 0;
+}
+.text-head{
+  z-index: 4;
+}
+
+.status{
+  z-index: 10;
+}
+
+.editor{
+  height: 80%;
+  width: auto;
+  background-color: white;
+}

@@ -1,0 +1,110 @@
+
+body {
+    height: 100%;
+    width: 100%;
+    margin: 0;
+    font-family:  'Josefin Sans', sans-serif;
+    position: absolute;
+    box-sizing: border-box;
+  }
+          .page-container {
+            position: relative;
+            width: 100%;
+            height: 100%;
+            display: block;
+            perspective: 1000px;
+          }
+            .ip-card-container {
+                height: 500px;
+                margin: 0;
+                padding: 0;
+                width: 330px;
+                margin-left: 35%;
+              margin-right: 35%;
+                position: relative;
+                transform-style: preserve-3d;
+                box-sizing: border-box;
+              }
+
+                .flipped .front {
+                        transform: rotateY(180deg);
+                    }
+                  .flipped .back {
+                        transform: rotateY(0deg);
+                    }
+
+                .front,
+                .back {
+                    box-sizing: border-box;
+                    height: 95%;
+                    width: 100%;
+                    display: block;
+                    background: rgb(248, 246, 234);
+                    box-shadow: 10px 10px 5px rgb(95, 77, 99);
+                    padding: 10px;
+                    position: absolute;
+                    border-radius: 10px;
+                    backface-visibility: hidden;
+                    transform-style: preserve-3d;
+                    transition: -webkit-transform ease 500ms;
+                    transition: transform ease 500ms;
+                }
+                .front {
+                    z-index: 2;
+                    transform: rotateY(0deg);
+                    /* front tile styles go here! */
+                }
+                .back {
+                    background: rgb(248, 246, 234);
+                    transform: rotateY(-180deg);
+                    padding: 20px;
+                    font-size: 18px;
+                    /* back tile styles go here! */
+                }
+                .image-container {
+                    position: relative;
+                    width: 100%;
+                  }
+                    .card-image {
+                        border-radius: 10px;
+                        width: 100%;
+                        height: 100%;
+                    }
+                    .title {
+                        font-size: 34px;
+                        position: absolute;
+                        margin-bottom: 10px;
+                        margin-left: 10px;
+                        bottom: 0;
+                        left: 0;
+                        color: rgb(248, 246, 234);
+                    }
+
+                .main-area {
+                    margin-left: 10px;
+                    margin-top: 10px;
+                    margin-right: 10px;
+                  }
+                    .blog-post {
+                        height: 100%;
+                  }
+                        .date {
+                        margin-top: 10px;
+                        margin-bottom: 5px;
+                        font-size: 20px;
+                    }
+                    .read-more {
+                        font-size: 20px;
+                        position: relative;
+                        bottom: 0px;
+                        text-align: right;
+                    }
+                        .blog-content {
+                            height: 90%;
+                            display: block;
+                            margin-top: 10px;
+                            margin-bottom: 10px;
+                            white-space: nowrap;
+                            overflow: hidden;
+                            text-overflow: ellipsis;
+                        }
