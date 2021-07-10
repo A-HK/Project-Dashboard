@@ -8,6 +8,15 @@ A demo dashboard of completed and ongoing projects of Newolf Society <br><br>
 
 
 
+
 ### Credits / Attributions
 learn-with-jason (by Paul Henschel and Jason Lengstorf): https://www.youtube.com/watch?v=1rP3nNY2hTo <br>
 3d asset by Andrey Lukashov - sketchfab: https://sketchfab.com/3d-models/space-exploration-wlp-series-8-91964c1ce1a34c3985b6257441efa500
+
+
+
+### Techstack
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />   &nbsp;   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />  &nbsp;   <img src="https://img.shields.io/badge/React_Three_Fiber-FFA500?style=for-the-badge&logo=three.js&logoColor=white" />
+
+
+
