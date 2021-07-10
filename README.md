@@ -3,6 +3,7 @@
 ### About
 A demo dashboard of completed and ongoing projects of Newolf Society <br><br>
 ![ProjectDashboard](https://user-images.githubusercontent.com/73497800/125175270-985fa780-e1e8-11eb-932d-3de192bac226.png)
+<br><br>
 ![completed_proj](https://user-images.githubusercontent.com/73497800/125175373-3fdcda00-e1e9-11eb-8965-0e418f247f1e.png)
 
 
